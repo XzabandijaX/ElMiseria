@@ -62,3 +62,5 @@ int multiplicatoria(int a){
 	}
 	return b;
 }
+
+cambien cualquier uchi pene
